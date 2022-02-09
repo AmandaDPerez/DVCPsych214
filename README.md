@@ -1,5 +1,5 @@
-# Psych 214, DVC
- Course Materials for Spring 2022
+# Course Materials for Spring 2022
+
 
 ## Class Activities
 
