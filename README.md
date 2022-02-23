@@ -9,8 +9,15 @@
 
 + [Week 3: GGplot2](https://amandadperez.github.io/DVCPsych214/class_coding/Week3_Live_Coding.html)
 
++ [Week 4: Correlations](https://amandadperez.github.io/DVCPsych214/class_coding/Week4_Live_Activity.html)
+
+
 ## R Lab Keys
 
 + [R Lab 1](https://amandadperez.github.io/DVCPsych214/rlabs/Lab1_KEY.html)  
 
 + [R Lab 2](https://amandadperez.github.io/DVCPsych214/rlabs/Lab2_KEY.html)
+
++ [R Lab 3](https://amandadperez.github.io/DVCPsych214/rlabs/Lab3_KEY.html)
+
++ [R Lab 4](https://amandadperez.github.io/DVCPsych214/rlabs/Lab4_KEY.html)
