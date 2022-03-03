@@ -11,6 +11,8 @@
 
 + [Week 4: Correlations](https://amandadperez.github.io/DVCPsych214/class_coding/Week4_Live_Activity.html)
 
++ [Week 5: Creating & Assessing Scales ](https://amandadperez.github.io/DVCPsych214/class_coding/Week5_Live_Activity.html)
+
 
 ## R Lab Keys
 
@@ -21,3 +23,5 @@
 + [R Lab 3](https://amandadperez.github.io/DVCPsych214/rlabs/Lab3_KEY.html)
 
 + [R Lab 4](https://amandadperez.github.io/DVCPsych214/rlabs/Lab4_KEY.html)
+
++ [R Lab 5](https://amandadperez.github.io/DVCPsych214/rlabs/Lab5_KEY.html)
