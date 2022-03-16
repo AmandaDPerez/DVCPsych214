@@ -25,3 +25,7 @@
 + [R Lab 4](https://amandadperez.github.io/DVCPsych214/rlabs/Lab4_KEY.html)
 
 + [R Lab 5](https://amandadperez.github.io/DVCPsych214/rlabs/Lab5_KEY.html)
+
++ [R Lab 6](https://amandadperez.github.io/DVCPsych214/rlabs/Lab6_KEY.html)
+
++ [R Lab 7](https://amandadperez.github.io/DVCPsych214/rlabs/Lab7_KEY.html)
