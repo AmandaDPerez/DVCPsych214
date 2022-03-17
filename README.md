@@ -13,6 +13,8 @@
 
 + [Week 5: Creating & Assessing Scales ](https://amandadperez.github.io/DVCPsych214/class_coding/Week5_Live_Activity.html)
 
++ [Week 8: Milestone 1 Guide](https://amandadperez.github.io/DVCPsych214/class_coding/Milestone1_Live.html)
+
 
 ## R Lab Keys
 
