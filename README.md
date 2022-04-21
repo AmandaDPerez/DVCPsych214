@@ -15,6 +15,11 @@
 
 + [Week 8: Milestone 1 Guide](https://amandadperez.github.io/DVCPsych214/class_coding/Milestone1_Live.html)
 
++ [Week 12: Milestone 2 Guide](https://amandadperez.github.io/DVCPsych214/class_coding/Milestone2_KEY.html)
+
++ [Week 12: Final Project Guide](https://amandadperez.github.io/DVCPsych214/class_coding/Final_Project_KEY.html)
+
+
 
 ## R Lab Keys
 
@@ -31,3 +36,11 @@
 + [R Lab 6](https://amandadperez.github.io/DVCPsych214/rlabs/Lab6_KEY.html)
 
 + [R Lab 7](https://amandadperez.github.io/DVCPsych214/rlabs/Lab7_KEY.html)
+
++ [R Lab 8](https://amandadperez.github.io/DVCPsych214/rlabs/Lab8_KEY.html)
+
++ [R Lab 9](https://amandadperez.github.io/DVCPsych214/rlabs/Lab9_KEY.html)
+
++ [R Lab 10](https://amandadperez.github.io/DVCPsych214/rlabs/Lab10_KEY.html)
+
++ [R Lab 11](https://amandadperez.github.io/DVCPsych214/rlabs/Lab11_KEY.html)
